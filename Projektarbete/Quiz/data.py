@@ -1,0 +1,17 @@
+question_data = [
+    {"text": "A slug's blood is green. ", "answer": "True"},
+    {"text": "The loudest animal is the African Elephant. ", "answer": "False"},
+    {"text": "Approximately one quarter of human bones are in the feet. ", "answer": "True"},
+    {"text": "The fastest animal is the Zebra. ", "answer": "False"},
+    {"text": "The construction of the Eiffel Tower was completed on March 31, 1887.", "answer": "False"},
+    {"text": "Lightning is seen before it is heard because light travels faster than sound.", "answer": "True"},
+    {"text": "Vatican City is a country.", "answer": "True"},
+    {"text": "Penicillin was discovered in Vietnam to treat malaria.", "answer": "False"},
+    {"text": "Broccoli contains more vitamin C than lemons.", "answer": "True"},
+    {"text": "Light bulbs were Thomas Edison's invention.", "answer": "False"},
+    {"text": "Google was originally called BackRub.", "answer": "True"},
+    {"text": "The black box in a plane is black.", "answer": "False"},
+    {"text": "Tomatoes are fruit.", "answer": "True"},
+    {"text": "Depression is the most common cause of disability in the world.", "answer": "True"},
+    {"text": "Cleopatra was of Egyptian descent.", "answer": "False"},
+]
